@@ -17,5 +17,6 @@ function quizStart() {
 startButton.addEventListener("click", quizStart);
 
 function retrieveQuestion(){
-    let questionTitle = document.querySelector("question-title")
+    let questionTitle = document.querySelector("question-title");
+    
 }
