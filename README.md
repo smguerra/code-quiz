@@ -28,8 +28,8 @@ This Code Quiz project showcases my skills in the use of JavaScript fundamentals
 
 ## Links
 
-- Project URL:  https://github.com/smguerra/Password-Generator
-- Live Site URL:  https://smguerra.github.io/Password-Generator/
+- Project URL:  https://github.com/smguerra/code-quiz
+- Live Site URL:  https://smguerra.github.io/code-quiz/
 
 
 ## Author
