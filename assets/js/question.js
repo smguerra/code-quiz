@@ -24,6 +24,6 @@ let questionsQuiz = [
         title: "Which operator is used to assign a value to a variable?",
         choices: ["+", "=", "*", "-"],
         answer: "=",
-    }
+    },
 
-]
+];
