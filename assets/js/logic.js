@@ -4,6 +4,9 @@ let startButton = document.querySelector("#start");
 let time = document.querySelector("#time");
 let timeCount = 60;
 let timer
+let score = 0;
+
+// Function start button that when clicked a timer starts and the first question appears.
 
 function quizStart() {
     startScreen.setAttribute("class", "hide");
@@ -47,5 +50,4 @@ let currentQuestionIndex = 1;
 
 // Display the choices for the first question
 displayChoices(questionsQuiz[currentQuestionIndex]);
-
 
