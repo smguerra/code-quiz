@@ -14,11 +14,10 @@ This Code Quiz project showcases my skills in the use of JavaScript fundamentals
 
 ## Screenshot
 
-![screenshot1](https://user-images.githubusercontent.com/118385737/214310972-b96cee83-dfef-43fb-b8a5-fa1e16f5ec71.png)
-![screenshot2](https://user-images.githubusercontent.com/118385737/214310994-605537e2-2f61-4a2e-8216-431486bf0c7d.png)
 
+![screenshot1](https://user-images.githubusercontent.com/118385737/214312157-979af3e5-0375-4b40-844e-78595428e8ad.png)
 
-
+![screenshot2](https://user-images.githubusercontent.com/118385737/214312179-d9ae2024-c405-4997-929f-2f70beee30d8.png)
 
 
 
